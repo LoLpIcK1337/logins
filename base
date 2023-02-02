@@ -1,7 +1,10 @@
 
 {
 ["LoLpIcK1337"] = {
-    ["data"] = "02/02/23"
+    ["access"] = "stable",
+    ["hwid"] = nil,
+    ["data"] = "03/02/23"
+    
   }
 }
 
