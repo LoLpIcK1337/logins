@@ -1,9 +1,9 @@
 
 {
 ["LoLpIcK1337"] = {
-    ["access"] = "stable",
+    ["access"] = "beta",
     ["hwid"] =  699541018020,
-    ["time"] = "030223"
+    ["time"] = "020223"
     
   }
 }
