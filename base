@@ -3,12 +3,12 @@
 ["LoLpIc1337"] = {
     ["access"] = "beta",
     ["hwid"] =  1,
-    ["time"] = "060223"
+    ["time"] = "060223",
   }
-  ["gigacgad"] =  {
+ ["gigacgad"] =  {
     ["access"] = "stable",
     ["hwid"] =  1,
-    ["time"] = "060223"
+    ["time"] = "060223",
   }
 }
 
