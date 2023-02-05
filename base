@@ -1,8 +1,8 @@
 {
-    ["LoLpIc1337"] = {
-        ["access"] = "beta",
-        ["hwid"] =  1,
-        ["time"] = "060223",
+    ['LoLpIc1337'] = {
+        ['access'] = "beta",
+        ['hwid'] =  1,
+        ['time'] = "100223",
       },
 }
 
