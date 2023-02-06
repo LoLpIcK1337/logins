@@ -1,6 +1,6 @@
 {
         LoLpIcK1337 = {
-                time = 722022,
+                time = {day = 7, month=2, year=2023},
                 hwid = 1,
                 version = "0.7"
         }       
