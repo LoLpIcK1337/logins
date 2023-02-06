@@ -1,9 +1,7 @@
-[[ 
-    {
-        ['LoLpIc1337'] = {
-            ['access'] = 'beta',
-            ['hwid'] =  1,
-            ['time'] = 'unlimited',
-          },
-    }
-]]
+{
+    ['LoLpIc1337'] = {
+        ['access'] = 'beta',
+        ['hwid'] =  1,
+        ['time'] = 'unlimited',
+      },
+},
