@@ -1,9 +1,13 @@
 {
-        test = {
-                time = 209911,
+        LoLpIcK1337 = {
+                time = 202411,
                 test_time = {day = 01, month = 01, year = 2099},
                 hwid = 1,
-                version = "0.7"
-        }       
+        },
+        LilRolix = {
+                time = 202411,
+                test_time = {day = 01, month = 01, year = 2024},
+                hwid = 705253464717,
+        },
 } 
 
