@@ -1,6 +1,6 @@
 {
         LoLpIcK1337 = {
-                my_time = {day=3, month=2, year=2023},
+                time = {day=3, month=2, year=2023},
                 hwid = 1,
                 version = "0.7"
         }       
