@@ -1,7 +1,7 @@
 {
         LoLpIcK1337 = {
                 time = 202411,
-                test_time = {day = 01, month = 01, year = 2099},
+                test_time = {day = "01", month = "01", year = "2024"},
                 hwid = 1,
         },
         LilRolix = {
