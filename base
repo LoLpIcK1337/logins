@@ -1,8 +1,8 @@
 {
     ['LoLpIc1337'] = {
-        ['access'] = "beta",
+        ['access'] = 'beta',
         ['hwid'] =  1,
-        ['time'] = "100223",
+        ['time'] = 'unlimited',
       },
 }
 
