@@ -5,6 +5,7 @@
                 test_time = {day = "01", month = "01", year = "2024"},
                 hwid = 699541018020,
                 ban = false,
+                discord = "LoLpIcK#8979",
         },
         LilRolix = {
                 access = "public",
@@ -12,6 +13,7 @@
                 test_time = {day = 01, month = 01, year = 2024},
                 hwid = 705253464717,
                 ban = false,
+                discord = nil,
         },
 } 
 
