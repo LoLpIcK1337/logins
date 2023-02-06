@@ -1,7 +1,7 @@
 {
         test = {
                 time = 209911,
-                test_time = {day = 01, month= 01, year = 2099},
+                test_time = {day = 01, month = 01, year = 2099},
                 hwid = 1,
                 version = "0.7"
         }       
