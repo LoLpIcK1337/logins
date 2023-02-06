@@ -1,5 +1,7 @@
 {
-        ["LoLpIcK1337"] = {
-                ["time"] = "070223"
+        LoLpIcK1337 = {
+                time = 070223,
+                hwid = 1,
+                version = "0.7"
         }       
-}
+} 
