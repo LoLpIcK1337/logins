@@ -1,10 +1,12 @@
 {
         LoLpIcK1337 = {
+                access = "beta",
                 time = 202411,
                 test_time = {day = "01", month = "01", year = "2024"},
                 hwid = 699541018020,
         },
         LilRolix = {
+                access = "public",
                 time = 202411,
                 test_time = {day = 01, month = 01, year = 2024},
                 hwid = 705253464717,
