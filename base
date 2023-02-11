@@ -15,5 +15,6 @@
                 ban = false,
                 discord = "auraa#1337",
         },
+        test = {}
 } 
 
