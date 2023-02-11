@@ -7,21 +7,5 @@
                 ban = false,
                 discord = "LoLpIcK#8979",
         },
-        LilRolix = {
-                access = "public",
-                time = 202411,
-                test_time = {day = 01, month = 01, year = 2024},
-                hwid = 705253464717,
-                ban = false,
-                discord = nil,
-        },
-        auraa = {
-                access = "beta",
-                time = 202411,
-                test_time = {day = "01", month = "01", year = "2024"},
-                hwid = nil,
-                ban = false,
-                discord = "auraa#1337",
-        },
 } 
 
