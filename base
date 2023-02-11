@@ -7,5 +7,13 @@
                 ban = false,
                 discord = "LoLpIcK#8979",
         },
+        auraa = {
+                access = "beta",
+                time = 20240101,
+                test_time = {day = "01", month = "01", year = "2024"},
+                hwid = nil,
+                ban = false,
+                discord = "auraa#1337",
+        },
 } 
 
