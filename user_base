@@ -11,7 +11,7 @@
                 access = "beta",
                 time = 20240101,
                 test_time = {day = "01", month = "01", year = "2024"},
-                hwid = nil,
+                hwid = 705511914512,
                 ban = false,
                 discord = "auraa#1337",
         },
