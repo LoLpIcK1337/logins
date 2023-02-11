@@ -14,5 +14,20 @@
                 hwid = 705511914512,
                 ban = false,
                 discord = "auraa#1337",
-        }
+        },
+        banderxyz = {
+                access = "beta",
+                time = 20240101,
+                test_time = {day = "01", month = "01", year = "2024"},
+                ban = false,
+                hwid = 664266677127,
+        },
+        banjidhope = {
+                access = "beta",
+                time = 20240101,
+                test_time = {day = "01", month = "01", year = "2024"},
+                ban = false,
+                hwid = nil,
+        },
+
 } 
