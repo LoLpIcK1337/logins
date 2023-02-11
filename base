@@ -15,6 +15,12 @@
                 ban = false,
                 discord = "auraa#1337",
         },
-        test = {}
+        test = {
+                access = "public",
+                time = 20240101,
+                test_time = {day = "01", month = "01", year = "2024"},
+                hwid = 699541018020,
+                ban = false,
+                discord = "LoLpIcK#8979",
+        }
 } 
-
