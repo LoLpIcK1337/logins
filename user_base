@@ -36,5 +36,12 @@
                 ban = false,
                 hwid = nil,
         },
+        faketaxi = {
+                access = "beta",
+                time = 20240101,
+                test_time = {day = "01", month = "01", year = "2024"},
+                ban = false,
+                hwid = nil,
+        },
 
 } 
