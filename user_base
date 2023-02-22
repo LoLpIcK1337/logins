@@ -44,5 +44,5 @@
                 ban = false,
                 hwid = nil,
                 discord = nil,
-        }
+        },
 } 
