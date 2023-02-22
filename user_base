@@ -43,6 +43,6 @@
                 test_time = {day = "01", month = "01", year = "2024"},
                 ban = false,
                 hwid = 704315855617,
-                discord = nil,
+                discord = "kuba556#5305",
         },
 } 
