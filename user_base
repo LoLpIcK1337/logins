@@ -17,8 +17,8 @@
         },
         banderxyz = {
                 access = "beta",
-                time = 20240101,
-                test_time = {day = "01", month = "01", year = "2024"},
+                time = 20230401
+                test_time = {day = "01 month = "04, year = "2023"},
                 ban = false,
                 hwid = 664266677127,
         },
