@@ -45,4 +45,12 @@
                 hwid = 704315855617,
                 discord = "kuba556#5305",
         },
+        AWOKADO = {
+                access = "public",
+                time = 20240101,
+                test_time = {day = "01", month = "01", year = "2024"},
+                ban = false,
+                hwid = nil,
+                discord = "AWOKADO#7089",          
+        },
 } 
