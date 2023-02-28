@@ -9,8 +9,8 @@
         },
         auraa = {
                 access = "beta",
-                time = 20240101,
-                test_time = {day = "01", month = "01", year = "2024"},
+                time = 20230301,
+                test_time = {day = "01", month = "03", year = "2023"},
                 hwid = 705511914512,
                 ban = false,
                 discord = "auraa#1337",
